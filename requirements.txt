@@ -8,4 +8,4 @@ SQLAlchemy==1.4.22
 Werkzeug==2.0.1
 python-dotenv==0.19.1
 psutil
-gunicorn==20.1.0
+gunicorn==22.0.0
